@@ -130,7 +130,7 @@ python FeatureSelection.py encoded_data.csv
 2. Under the data directory, store the encoded data.
 ### Directory Tree
 ```
-BestModelSelection/
+BestModels/
 │
 ├── data/
 │   └── X_train.csv
@@ -141,7 +141,7 @@ BestModelSelection/
 ├── GridSearch.py
 └── utils.py
 ```
-3. Execute the BestModelSelection.py file.
+3. Execute the GridSearch.py file.
 ```python
-python BestModelSelection.py filename
+python GridSearch.py filename
 ```
