@@ -15,7 +15,10 @@
 - [Data Preprocessing](#data-preprocessing)
     - [Format Consolidation](#format-consolidation)
     - [Encoding](#encoding)
-
+- [Feature Selection](#feature-selection)
+    - [Execution](#execution)
+- [Best Model Selection](#best-model-selection)
+    - [Execution](#execution)
 # Hi-MLIC
 ![Hi-MLIC](https://github.com/CSID-DGU/Hi-MLIC/assets/95370711/832a1789-bb5a-419a-b4fb-38a2f362effb)
 
